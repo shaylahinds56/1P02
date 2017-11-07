@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+h1{
+    width: 310px;
+    padding: 10px;
+    border: 5px solid purple;
+    margin: 10;
+}
+h3,h1{
+    color: purple;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    font-variant: small-caps;
+}
+
+h2~ol{
+     font: arial, sans-serif;
+}
+
+br~img{
+  position: relative;
+  left: 60px;
+  border: 10px solid #73AD21;
+}
